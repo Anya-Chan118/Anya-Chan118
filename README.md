@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Anya Chan! 👋
 
-<!--
-**Anya-Chan118/Anya-Chan118** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://imgbb.com/"><img src="https://i.ibb.co/5hY088Qk/images-12.jpg" alt="Anya Chan" width="200" /></a>
 
-Here are some ideas to get you started:
+Welcome to my GitHub profile!  
+I'm passionate about coding, learning new technologies, and collaborating on exciting projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🌱 About Me
+
+- 💻 Aspiring developer and tech enthusiast
+- 📚 Always learning and exploring new things
+- 🤝 Love contributing to open-source projects
+- 🗨️ Happy to connect and collaborate!
+
+---
+
+## 🚀 Skills
+
+- Programming Languages: Python, JavaScript, C++
+- Web Development: HTML, CSS, React
+- Tools: Git, VS Code, Linux
+
+---
+
+
+
+Thanks for visiting my profile!  
+Feel free to check out my repositories and reach out if you'd like to connect.
+
